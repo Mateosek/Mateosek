@@ -1,5 +1,5 @@
 ### Mateusz Malinowski
-Cybersecurity Engineering student @ Kazimierz Wielki University
+Cybersecurity Engineering student Kazimierz Wielki University
 
 Focusing on Linux administration, networking, and containerized infrastructure.
 
